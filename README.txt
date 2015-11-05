@@ -99,4 +99,3 @@ made.
 You shall provice no warranties or representations, express or implied, that
 give any other user or customer any rights or remedies against Dinkumware,
 Ltd. or P.J. Plauger.
-
